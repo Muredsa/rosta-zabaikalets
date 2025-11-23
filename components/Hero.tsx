@@ -7,7 +7,7 @@ export const Hero: React.FC = () => {
       {/* Background with overlay */}
       <div className="absolute inset-0 z-0">
         <img 
-          src="https://picsum.photos/1920/1080?grayscale&blur=2" 
+          src="https://images.unsplash.com/photo-1585747860715-2ba37e788b70?q=80&w=2074&auto=format&fit=crop" 
           alt="Barbershop interior" 
           className="w-full h-full object-cover opacity-40"
         />
